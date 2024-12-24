@@ -1,4 +1,4 @@
-# dvd-rental-database
+# dvdrental-database
 
 dvd rental sample database available here -> https://neon.tech/postgresql/postgresql-getting-started/postgresql-sample-database
 
